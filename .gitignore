@@ -3,5 +3,13 @@
 ################################################################################
 
 /.vs
-/UnitOfWorkDesign/.vs
-/UnitOfWorkDesign/UnitOfWorkDesign/obj
+/Business/bin/Debug/net8.0
+/Business/obj
+/Domain/bin/Debug/net8.0
+/Domain/obj
+/PersonalBloggingAPI/bin/Debug/net8.0
+/PersonalBloggingAPI/obj
+/Repository/bin/Debug/net8.0
+/Repository/obj
+/UnitofWork/bin/Debug/net8.0
+/UnitofWork/obj
